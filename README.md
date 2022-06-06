@@ -1,6 +1,6 @@
 # AI for Multiple Long Term Conditions: Research Support Facility
 
-Welcome to **Getting Started** repository for the [AI for Multiple Long Term Conditions Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)! 🎉 Here you'll find guides and resources to help you get started with the AIM RSF projects, information on events, and other resources generated to support the 7 consortia that form our research community. 
+Welcome to **Getting Started** repository for the [AI for Multiple Long Term Conditions Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)! 🎉 Here you'll find guides and resources to help you get started with the AIM RSF projects, information on how to contribute and use the repositories, and other resources generated to support the 7 consortia that form our research community. 
 
 
 ## 🗺️ Background
