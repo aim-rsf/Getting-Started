@@ -1,13 +1,13 @@
 # AI for Multiple Long Term Conditions: Research Support Facility
 
-Welcome to **Getting Started** repository for the [AI for Multiple Long Term Conditions Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)! 🎉 Here you'll find guides and resources to help you get started with the AIM RSF projects, information on how to contribute and use the repositories, and other resources generated to support the 7 consortia that form our research community. 
+Welcome to **Getting Started** repository for the [AI for Multiple Long Term Conditions Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)! 🎉 Here you'll find guides and resources to help you get started with the AIM RSF projects, information on how to contribute and use the repositories, and other resources generated to support the 7 AIM consortia that form our research community. 
 
 
 ## 🗺️ Background
 
-The Research Support Facility (RSF), based at The Alan Turing Institute with collaborators from Swansea University and the University of Edinburgh, offers AI and advanced data science support to the research teams part of the [NIHR's Artificial Intelligence for Multiple Long-Term Conditions (AIM)](https://www.nihr.ac.uk/blog/artificial-intelligence-to-understand-clusters-of-multiple-long-term-conditions-an-nihr-priority/25171) project, and acts as a hub to foster collaboration across the AIM consortium. 
+The Research Support Facility (RSF), based at The Alan Turing Institute with collaborators from Swansea University and the University of Edinburgh, offers AI and advanced data science support to the research teams part of the [NIHR's Artificial Intelligence for Multiple Long-Term Conditions (AIM)](https://www.nihr.ac.uk/blog/artificial-intelligence-to-understand-clusters-of-multiple-long-term-conditions-an-nihr-priority/25171) project, and acts as a hub to foster collaboration across the AIM consortia. 
 
-The AIM project's research combines data science and AI methods with expertise from health, care and social science with the goal of identifying new clusters of disease and understand how multiple long-term conditions develop over the life course. 
+The AIM project's research combines data science and AI methods with expertise from health, care and social science with the goal of identifying new clusters of disease and understand how multiple long-term conditions (MLTC) develop over the life course. 
 
 As a Research Support Facility, we will be covering multiple research and community activities to work towards that goal, as well as building strong connections and collaborations across the AIM consortium aligned with **5 Core Themes**.
 
@@ -34,7 +34,7 @@ This theme will work with researchers to embed outputs in existing communities, 
 
 ## 📣 Communication Channels
 
-* We have a monthly **Open to All** knowledge share series which is kicking off in May 2022. You can find out more and register for the events [here](https://www.turing.ac.uk/events/rsf-monthly-seminars).
+* We have a monthly **Open invitation** knowledge share series which is kicking off in March 2022. You can find out more and register for the events [here](https://www.turing.ac.uk/events/rsf-monthly-seminars).
 * You can join our [Slack Workspace](https://join.slack.com/t/ai-mltc/shared_invite/zt-1aa8a1mbn-KmTz190EAo4HwmkdrDWSbQ) to connect with the team and the wider community.
 * We hold monthly lunch sessions for the Early Career Researchers, and anyone involved in Patient Recruitment, Involvement, or Community Engagement. Reach out to Evelina Gabasova egabasova@turing.ac.uk, or Sophia Batchelor sbatchelor@turing.ac.uk to get involved. 
 * The Turing [website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) has info on the RSF, who's involved, and other info about the current projects.
