@@ -42,7 +42,7 @@ This theme will work with researchers to embed outputs in existing communities, 
 
 ## ☎️ Contact
 
-This repository is maintained by the Community Manager for the AIM RSF, Sophia Batchelor. You can reach her at sbatchelor@turing.ac.uk
+This repository is maintained by the Community Managers for the AIM RSF, Sophia Batchelor and Eirini Zormpa. You can reach them at sbatchelor@turing.ac.uk and ezormpa@turing.ac.uk respectively.
 
 ## ♻️ License
 > [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
