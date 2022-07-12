@@ -2,25 +2,15 @@
 
 Thank you for taking the time to contribute to this project 🎉 
 
-A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material in this repository. 
+A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material in this repository. Please refer to the [Code of Conduct](./CODE_OF_CONDUCT.md) for information on what behaviours we expect of contributors. 
 
-This repository is here to help folks get started collaborating on the AIM-RSF projects. Its contents is being developed **openly** and invites contributions from **anyone** who wants to support the work of the AIM Consortium. It is a public facing repository and materials will be shared openly, please refer to the [Knowledge Management](./Knowledge-Management) Documentation for details on where to put resources, and for how information will be stored and used.
+This repository is here to help folks get started collaborating on the AIM-RSF projects. Its contents is being developed **openly** and invites contributions from **anyone** who wants to support the work of the AIM Consortium. 
+
 You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests that add resources, and help develop or review training materials. If there are resources you would like to add, please submit a Pull Request, or if you have questions about any of the information here, please open an Issue or start a Discussion. 
 
 To learn more about why we use a `CONTRIBUTING.md` file, please read the [Contributors and Communication Pathways chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-contributors.html) in *The Turing Way* Guide for Project Design.
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities related to the AIM-RSF projects including the conduct expected of contributors to this repository and the many others in the [AIM-RSF Organization](https://github.com/aim-rsf). 
-
-
-⭐️ You are acknowledged for all kinds of contributions
----
-
-In this repository, we use the [All Contributors Bot](https://allcontributors.org/) that help us recognise and acknowledge the work of our contributors. 
-You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji-key) representing the types of contribution. 
-
-To add a contributor, comment on Issue or Pull Request (where the contributor is involved) using this message for @all-contributors:
-`@all-contributors please add @<username> for <keyword in the Type column>`
-
 
 ## Whatever is your availability, there is a way to contribute to this GitHub repository.
 
@@ -53,14 +43,27 @@ If you see an error or outdated information, open a GitHub Issue with and tag th
   - Start work on a contribution that is already listed as an issue or something you’ve already discussed
   - A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
 
+
 📫 Contact
 ---
 
 This project is maintained by the members of the **[AIM Research Support Facility]()**.
 For any organisation related queries or concerns, you can directly reach out to **Sophia Batchelor by emailing [sbatchelor@turing.ac.uk](mailto:sbatchelor@turing.ac.uk) or Eirini Zormpa by emailing [ezormpa@turing.ac.uk](mailto:ezormpa@turing.ac.uk)**.
 
+
+⭐️ Contributions
+---
+
+In this repository, we use the [All Contributors Bot](https://allcontributors.org/) that help us recognise and acknowledge the work of our contributors. 
+You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji-key) representing the types of contribution. 
+
+To add a contributor, comment on Issue or Pull Request (where the contributor is involved) using this message for @all-contributors:
+`@all-contributors please add @<username> for <keyword in the Type column>`
+
+
 🤝 Attributions 
 ---
+
 Many of the resources in this repository have been based of material in ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* as part of the AIM-RSF's commitment to the practical integration of reproducibility practices and collaboration**.
 
 
