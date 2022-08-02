@@ -20,7 +20,7 @@ This theme will bring different research collaborations across the UK together w
 Data wranglers, experts in data curation and quality control, will work with the Research Collaborations to align datasets and standards. This will enable a broad range of data to be incorporated into extended analyses within AIM and beyond.
 
 ### Theme 3: Community building and training
-##### Team: Dr Evelina Gabasova, Dr Eirini Zormpa 
+##### Team: Dr Evelina Gabasova ([egabasova@turing.ac.uk](mailto:egabasova@turing.ac.uk), Dr Eirini Zormpa ([ezormpa@turing.ac.uk](mailto:ezormpa@turing.ac.uk). 
 This theme aims to build connections between early career researchers across the AIM programme so their existing expertise can be shared across AIM and into the wider network. The other core aspect of the theme will be training and mentorship in the digital skills researchers need to deliver open source outputs from their Research Collaborations.
 
 ### Theme 4: Patient and public involvement and engagement
