@@ -16,7 +16,7 @@ As a Research Support Facility, we will be covering multiple research and commun
 This theme will bring different research collaborations across the UK together within a trusted research environment to facilitate data, software and analysis sharing. This will support a progressive move from reproducible, to reproduced, to reused research artefacts and outputs, maximizing the return on the NIHR’s investment in the overall research programme.
 
 ### Theme 2: Accessible, research ready data
-##### Team: Dr Ann-Marie Mallon, Mahwish Mohammad
+##### Team: Dr Ann-Marie Mallon, ([amallon@turing.ac.uk](mailto:amallon@turing.ac.uk)), Mahwish Mohammad ([mmohammad@turing.ac.uk](mailto:mmohammad@turing.ac.uk))
 Data wranglers, experts in data curation and quality control, will work with the Research Collaborations to align datasets and standards. This will enable a broad range of data to be incorporated into extended analyses within AIM and beyond.
 
 ### Theme 3: Community building and training
