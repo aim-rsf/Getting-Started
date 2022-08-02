@@ -28,7 +28,7 @@ This theme aims to build connections between early career researchers across the
 Enhancing existing patient and public involvement networks across the AIM programme, this theme will support and empower people with lived experience of MLTC to co-create the research with the teams. Online engagement activities such as talks and seminars that are accessible to all will set the standard for patient involvement in other healthcare areas in the future.
 
 ### Theme 5: Sustainability and legacy
-##### Team: Professor Aziz Sheikh, Monica Fletcher OBE 
+##### Team: Professor Aziz Sheikh, Monica Fletcher OBE ([monica.fletcher@ed.ac.uk](mailto:monica.fletcher@ed.ac.uk)).
 This theme will work with researchers to embed outputs in existing communities, both clinical and academic, and engage with policy makers to coordinate a long term investment in MLTC research. It is a key part of ensuring that AIM research continues beyond the end of this specific investment and the impact of the work conducted benefits as many people as possible. 
 
 
