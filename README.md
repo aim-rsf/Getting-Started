@@ -35,7 +35,7 @@ This theme will work with researchers to embed outputs in existing communities, 
 ## 📣 Communication Channels
 
 * We have a monthly **Open invitation** knowledge share series which is kicking off in March 2022. You can find out more and register for the events [here](https://www.turing.ac.uk/events/rsf-monthly-seminars).
-* We hold monthly lunch sessions for the Early Career Researchers, and anyone involved in Patient Recruitment, Involvement, or Community Engagement. Reach out to Evelina Gabasova egabasova@turing.ac.uk, or Sophia Batchelor sbatchelor@turing.ac.uk to get involved. 
+* We hold monthly lunch sessions for the Early Career Researchers, and anyone involved in Patient Recruitment, Involvement, or Community Engagement. Reach out to Eirini Zormpa ezormpa@turing.ac.uk, or Sophia Batchelor sbatchelor@turing.ac.uk to get involved. 
 * The Turing [website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) has info on the RSF, who's involved, and other info about the current projects.
 
 
