@@ -24,7 +24,7 @@ Data wranglers, experts in data curation and quality control, will work with the
 This theme aims to build connections between early career researchers across the AIM programme so their existing expertise can be shared across AIM and into the wider network. The other core aspect of the theme will be training and mentorship in the digital skills researchers need to deliver open source outputs from their Research Collaborations.
 
 ### Theme 4: Patient and public involvement and engagement
-##### Team: Lynsey Cross, Sophia Batchelor
+##### Team: Lynsey Cross ([l.s.cross@swansea.ac.uk](mailto:l.s.cross@swansea.ac.uk), Sophia Batchelor ([sbatchelor@turing.ac.uk](mailto:sbatchelor@turing.ac.uk)). 
 Enhancing existing patient and public involvement networks across the AIM programme, this theme will support and empower people with lived experience of MLTC to co-create the research with the teams. Online engagement activities such as talks and seminars that are accessible to all will set the standard for patient involvement in other healthcare areas in the future.
 
 ### Theme 5: Sustainability and legacy
