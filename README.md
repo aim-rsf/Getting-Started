@@ -16,26 +16,27 @@ As a Research Support Facility, we will be covering multiple research and commun
 This theme will bring different research collaborations across the UK together within a trusted research environment to facilitate data, software and analysis sharing. This will support a progressive move from reproducible, to reproduced, to reused research artefacts and outputs, maximizing the return on the NIHR’s investment in the overall research programme.
 
 ### Theme 2: Accessible, research ready data
-##### Team: Dr Ann-Marie Mallon, Mahwish Mohammad
+##### Team: Dr Ann-Marie Mallon, Mahwish Mohammad, Dr Rachael Stickland
 Data wranglers, experts in data curation and quality control, will work with the Research Collaborations to align datasets and standards. This will enable a broad range of data to be incorporated into extended analyses within AIM and beyond.
 
 ### Theme 3: Community building and training
-##### Team: Dr Evelina Gabasova, Dr Eirini Zormpa 
+##### Team: Dr Evelina Gabasova ([egabasova@turing.ac.uk](mailto:egabasova@turing.ac.uk)), Dr Eirini Zormpa ([ezormpa@turing.ac.uk](mailto:ezormpa@turing.ac.uk)). 
 This theme aims to build connections between early career researchers across the AIM programme so their existing expertise can be shared across AIM and into the wider network. The other core aspect of the theme will be training and mentorship in the digital skills researchers need to deliver open source outputs from their Research Collaborations.
 
 ### Theme 4: Patient and public involvement and engagement
-##### Team: Lynsey Cross, Sophia Batchelor
+##### Team: Lynsey Cross ([l.s.cross@swansea.ac.uk](mailto:l.s.cross@swansea.ac.uk), Sophia Batchelor ([sbatchelor@turing.ac.uk](mailto:sbatchelor@turing.ac.uk)). 
 Enhancing existing patient and public involvement networks across the AIM programme, this theme will support and empower people with lived experience of MLTC to co-create the research with the teams. Online engagement activities such as talks and seminars that are accessible to all will set the standard for patient involvement in other healthcare areas in the future.
 
 ### Theme 5: Sustainability and legacy
-##### Team: Professor Aziz Sheikh, Monica Fletcher OBE 
+##### Team: Professor Aziz Sheikh, Monica Fletcher OBE ([monica.fletcher@ed.ac.uk](mailto:monica.fletcher@ed.ac.uk)).
 This theme will work with researchers to embed outputs in existing communities, both clinical and academic, and engage with policy makers to coordinate a long term investment in MLTC research. It is a key part of ensuring that AIM research continues beyond the end of this specific investment and the impact of the work conducted benefits as many people as possible. 
 
 
 ## 📣 Communication Channels
 
-* We have a monthly **Open invitation** knowledge share series which is kicking off in March 2022. You can find out more and register for the events [here](https://www.turing.ac.uk/events/rsf-monthly-seminars).
-* We hold monthly lunch sessions for the Early Career Researchers, and anyone involved in Patient Recruitment, Involvement, or Community Engagement. Reach out to Evelina Gabasova egabasova@turing.ac.uk, or Sophia Batchelor sbatchelor@turing.ac.uk to get involved. 
+
+* We have a monthly **Open invitation** knowledge share series which has been running since March 2022. You can find out more and register for the events [here](https://www.turing.ac.uk/events/rsf-monthly-seminars).
+* We hold monthly lunch sessions for the Early Career Researchers, and anyone involved in Patient Recruitment, Involvement, or Community Engagement. Reach out to Eirini Zormpa ezormpa@turing.ac.uk, or Sophia Batchelor sbatchelor@turing.ac.uk to get involved. 
 * The Turing [website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) has info on the RSF, who's involved, and other info about the current projects.
 
 
