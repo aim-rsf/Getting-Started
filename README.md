@@ -16,7 +16,7 @@ As a Research Support Facility, we will be covering multiple research and commun
 This theme will bring different research collaborations across the UK together within a trusted research environment to facilitate data, software and analysis sharing. This will support a progressive move from reproducible, to reproduced, to reused research artefacts and outputs, maximizing the return on the NIHR’s investment in the overall research programme.
 
 ### Theme 2: Accessible, research ready data
-##### Team: Dr Ann-Marie Mallon, Mahwish Mohammad, Dr Rachael Stickland
+##### Team: Dr Ann-Marie Mallon, ([amallon@turing.ac.uk](mailto:amallon@turing.ac.uk)), Mahwish Mohammad ([mmohammad@turing.ac.uk](mailto:mmohammad@turing.ac.uk)), Dr Rachael Stickland ([rstickland@turing.ac.uk](mailto:rstickland@turing.ac.uk))
 Data wranglers, experts in data curation and quality control, will work with the Research Collaborations to align datasets and standards. This will enable a broad range of data to be incorporated into extended analyses within AIM and beyond.
 
 ### Theme 3: Community building and training
@@ -24,7 +24,7 @@ Data wranglers, experts in data curation and quality control, will work with the
 This theme aims to build connections between early career researchers across the AIM programme so their existing expertise can be shared across AIM and into the wider network. The other core aspect of the theme will be training and mentorship in the digital skills researchers need to deliver open source outputs from their Research Collaborations.
 
 ### Theme 4: Patient and public involvement and engagement
-##### Team: Lynsey Cross ([l.s.cross@swansea.ac.uk](mailto:l.s.cross@swansea.ac.uk), Sophia Batchelor ([sbatchelor@turing.ac.uk](mailto:sbatchelor@turing.ac.uk)). 
+##### Team: Lynsey Cross ([l.s.cross@swansea.ac.uk](mailto:l.s.cross@swansea.ac.uk)), Sophia Batchelor ([sbatchelor@turing.ac.uk](mailto:sbatchelor@turing.ac.uk)). 
 Enhancing existing patient and public involvement networks across the AIM programme, this theme will support and empower people with lived experience of MLTC to co-create the research with the teams. Online engagement activities such as talks and seminars that are accessible to all will set the standard for patient involvement in other healthcare areas in the future.
 
 ### Theme 5: Sustainability and legacy
