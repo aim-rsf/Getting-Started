@@ -5,8 +5,8 @@ First of all, a massive welcome to the AI for Multiple Long-Term Conditions (AIM
 
 # AIM-RSF Specific Onboarding
 
-- [ ] Invitation to the [AIM RSF GitHub Organization](https://github.com/aim-rsf)
-- [ ] Invitation to the AIM RSF Slack
+- [ ] Invitation to the [AIM RSF GitHub Organization](https://github.com/aim-rsf), [AIM-Consortia](https://github.com/orgs/aim-rsf/teams/aim-consortia) team.
+- [ ] Invitation to the AI-MLTC Slack workspace.
 
 ## About the AIM-RSF
 
