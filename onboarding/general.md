@@ -22,7 +22,6 @@ The AIM RSF has a GitHub Organization that was created with an educational licen
 
 There are multiple events organised by the RSF, both external- and internal-facing:
 - **Open Invitation Seminars**, the purpose of which is to share knowledge and stimulate discussion on AI and Multiple Long-Term Conditions research
-- **Internal Cross-Consortia meetings** provide a dedicated space to collaboratively explore challenges and opportunities in the research of AIM consortia
 - **Public and Patient Involvement and Engagement lunchtime sessions** provide an informal space to discuss ideas and challenges on PPIE
 - **Early Career Researcher lunchtime sessions** provide an informal space to discuss ideas and challenges for Early Career Researchers
 - **Training sessions and workshops** will be provided as needed
