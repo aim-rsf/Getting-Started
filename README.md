@@ -11,6 +11,9 @@ The AIM project's research combines data science and AI methods with expertise f
 
 As a Research Support Facility, we will be covering multiple research and community activities to work towards that goal, as well as building strong connections and collaborations across the AIM consortium aligned with **5 Core Themes**.
 
+### Overall Programme Management
+##### Team: Sydney Ambrose and Dr. Batool Almarzouq
+
 ### Theme 1: Reproducible, secure and interoperable infrastructure
 ##### Team: Professsor David Ford, Jon Smart, Chris Orton ([c.orton@swansea.ac.uk](mailto:c.orton@swansea.ac.uk))
 This theme will bring different research collaborations across the UK together within a trusted research environment to facilitate data, software and analysis sharing. This will support a progressive move from reproducible, to reproduced, to reused research artefacts and outputs, maximizing the return on the NIHR’s investment in the overall research programme.
