@@ -12,7 +12,7 @@ The AIM project's research combines data science and AI methods with expertise f
 As a Research Support Facility, we will be covering multiple research and community activities to work towards that goal, as well as building strong connections and collaborations across the AIM consortium aligned with **5 Core Themes**.
 
 ### Overall Programme Management
-##### Team: Dave Chapman, ([dchapman@turing.ac.uk] (mailto:dchapman@turing.ac.uk))
+##### Team: Sydney Ambrose and Dr. Batool Almarzouq
 
 ### Theme 1: Reproducible, secure and interoperable infrastructure
 ##### Team: Professsor David Ford, Jon Smart 
