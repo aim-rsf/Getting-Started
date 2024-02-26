@@ -23,7 +23,7 @@ This theme will bring different research collaborations across the UK together w
 Data wranglers, experts in data curation and quality control, will work with the Research Collaborations to align datasets and standards. This will enable a broad range of data to be incorporated into extended analyses within AIM and beyond.
 
 ### Theme 3: Community building and training
-##### Team: Dr Evelina Gabasova ([egabasova@turing.ac.uk](mailto:egabasova@turing.ac.uk)), Dr Eirini Zormpa ([ezormpa@turing.ac.uk](mailto:ezormpa@turing.ac.uk)). 
+##### Team: Dr Evelina Gabasova ([egabasova@turing.ac.uk](mailto:egabasova@turing.ac.uk)), Dr Emma Karoune ([ezormpa@turing.ac.uk](mailto:ezormpa@turing.ac.uk)). 
 This theme aims to build connections between early career researchers across the AIM programme so their existing expertise can be shared across AIM and into the wider network. The other core aspect of the theme will be training and mentorship in the digital skills researchers need to deliver open source outputs from their Research Collaborations.
 
 ### Theme 4: Patient and public involvement and engagement
@@ -31,7 +31,7 @@ This theme aims to build connections between early career researchers across the
 Enhancing existing patient and public involvement networks across the AIM programme, this theme will support and empower people with lived experience of MLTC to co-create the research with the teams. Online engagement activities such as talks and seminars that are accessible to all will set the standard for patient involvement in other healthcare areas in the future.
 
 ### Theme 5: Sustainability and legacy
-##### Team: Professor Aziz Sheikh, Monica Fletcher OBE ([monica.fletcher@ed.ac.uk](mailto:monica.fletcher@ed.ac.uk)).
+##### Team: Professor Aziz Sheikh, Monica Fletcher OBE ([monica.fletcher@ed.ac.uk](mailto:monica.fletcher@ed.ac.uk)), Lily Quinlan, Gabriella Linning .
 This theme will work with researchers to embed outputs in existing communities, both clinical and academic, and engage with policy makers to coordinate a long term investment in MLTC research. It is a key part of ensuring that AIM research continues beyond the end of this specific investment and the impact of the work conducted benefits as many people as possible. 
 
 
