@@ -15,7 +15,7 @@ As a Research Support Facility, we will be covering multiple research and commun
 ##### Team: Sydney Ambrose and Dr. Batool Almarzouq
 
 ### Theme 1: Reproducible, secure and interoperable infrastructure
-##### Team: Professsor David Ford, Jon Smart, Chris Orton ([c.orton@swansea.ac.uk](mailto:c.orton@swansea.ac.uk))
+##### Team: Professsor David Ford, Jon Smart, Reece Labrom, Chris Orton ([c.orton@swansea.ac.uk](mailto:c.orton@swansea.ac.uk))
 This theme will bring different research collaborations across the UK together within a trusted research environment to facilitate data, software and analysis sharing. This will support a progressive move from reproducible, to reproduced, to reused research artefacts and outputs, maximizing the return on the NIHR’s investment in the overall research programme.
 
 ### Theme 2: Accessible, research ready data
